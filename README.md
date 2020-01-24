@@ -13,5 +13,7 @@
  <ul>
  <li>New-Gen Medium Text Editor</li>
  <li>Multi-Color Animated CSS Stylings</li>
+ <li>Two New Games Added For Your Entertainment</li>
+ <li>Comment Feature Optimized</li>
  </ul>
  Added JavaScript Scripts To Add Medium Editor API.
