@@ -1,5 +1,6 @@
 # RDX-Blog-Project
  Simple Blog Testing Module<br>
+ <big>(Make Sure To Open It On Desktop Version For Better Experience)</big>
  Go To <a href="http://mrsidrdx.pythonanywhere.com/" target="_blank">Blog App</a> To Have Fun With The Blog App, Write Post, Publish Them, Add Comments, Save It In Drafts, User Authentication, And A Lot More Cool Features!<br>
  For Test User Authentication Use These Credentials For Testing Purpose : <br>
  <ul>
