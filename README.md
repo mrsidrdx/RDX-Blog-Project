@@ -13,4 +13,4 @@
  <li>New-Gen Medium Text Editor</li>
  <li>Multi-Color Animated CSS Stylings</li>
  </ul>
- Added JavaScript Scripts o Add Medium Editor API.
+ Added JavaScript Scripts To Add Medium Editor API.
